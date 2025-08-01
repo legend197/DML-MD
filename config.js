@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "DML-MD~2cNlBThD#d9_N_cAvO_p20Wpc7eOhMKe-SSNVLYUgGAHdDCZPnMo",
+SESSION_ID: process.env.SESSION_ID || "DML-MD~bI0BXbwI#M84A04MlozHses7CCryzm7EK_PN0r1asQrWnoj86zEY",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -41,9 +41,9 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "923420643353",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "923345800839",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "AP KE BAJI",
+OWNER_NAME: process.env.OWNER_NAME || "bye tata",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© POWERED BY DML-TECH*",
 // add bot owner name    
